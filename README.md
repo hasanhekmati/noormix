@@ -1,4 +1,4 @@
-# Noormix
+# ClubCore
 
 This project will bring all goodies together
 
